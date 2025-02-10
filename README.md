@@ -26,4 +26,8 @@ pip install -r requirement.txt
 ```bash
 chainlit init
 ```
+## run chainlit :
 
+```bash
+chainnlit run app.py -w
+```
