@@ -1,4 +1,4 @@
-# 🤖Chatbot🤖-Implementation-Using-Chainlit
+# Chatbot-Implementation-Using-Chainlit
 
 ## how to run ?
 
@@ -29,5 +29,5 @@ chainlit init
 ## run chainlit :
 
 ```bash
-chainnlit run app.py -w
+chainlit run app.py -w
 ```
